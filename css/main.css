@@ -396,13 +396,10 @@
 
 	.page {
 		display: flex;
-		gap: 15px;
-		padding: 0 50px;
-		align-items: center;
+		gap: 10px;
 	}
 
 	.page a {
-		font-size: 0;
 		display: block;
 	}
 
